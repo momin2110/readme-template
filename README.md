@@ -59,17 +59,17 @@ body{
 
 # Link  
 ## automatic link
-http://www.studywithanis.com
+http://www.learning.com
 
 ## disable link
-`http://www.studywithanis.com`
+`http://www.learning.com`
 
 ## markdown link
-[Studywithanis](Websitelink)
+[learning](Websitelink)
 [facebook](facebooklink)
 
 <!--all link-->
-[Websitelink]: http:www.studywithanis.com
+[Websitelink]: http:www.learning.com
 [facebooklink]: facebook.com
 
 
